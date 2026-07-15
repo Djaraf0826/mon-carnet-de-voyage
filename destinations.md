@@ -1,4 +1,3 @@
-# Destinations à visiter
-
+# Destinations que je veux découvrir
 - Dakar
 - Saint-Louis
