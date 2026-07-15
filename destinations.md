@@ -1,0 +1,3 @@
+# Destinations à visiter
+
+- Dakar
