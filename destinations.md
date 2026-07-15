@@ -1,4 +1,3 @@
-# Destinations à visiter
-
+# Mes destinations de rêve
 - Dakar
 - Saint-Louis
