@@ -2,3 +2,4 @@
 
 - Dakar
 - Saint-Louis
+- saly
